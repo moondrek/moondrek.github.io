@@ -1,0 +1,3 @@
+[submodule "doibe"]
+	path = doibe
+	url = https://github.com/moondrek/doibe.git
